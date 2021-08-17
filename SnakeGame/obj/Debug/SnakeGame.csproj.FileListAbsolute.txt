@@ -1,0 +1,10 @@
+D:\MoshIntermediate\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe.config
+D:\MoshIntermediate\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe
+D:\MoshIntermediate\SnakeGame\SnakeGame\bin\Debug\SnakeGame.pdb
+D:\MoshIntermediate\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csprojAssemblyReference.cache
+D:\MoshIntermediate\SnakeGame\SnakeGame\obj\Debug\SnakeGame.Form1.resources
+D:\MoshIntermediate\SnakeGame\SnakeGame\obj\Debug\SnakeGame.Properties.Resources.resources
+D:\MoshIntermediate\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.GenerateResource.cache
+D:\MoshIntermediate\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.CoreCompileInputs.cache
+D:\MoshIntermediate\SnakeGame\SnakeGame\obj\Debug\SnakeGame.exe
+D:\MoshIntermediate\SnakeGame\SnakeGame\obj\Debug\SnakeGame.pdb
